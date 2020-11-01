@@ -15,13 +15,13 @@
 
 #### Q03. Which type ot DNS record is most commonly used in a forward lookup zone to resolve a host name to a specific IP address?
 - [ ] an MX record
-- [ ] an A record		**<= ??? :thinking:**
+- [ ] an A record		**<= correct**
 - [ ] an RTP record
 - [ ] a TXT record
 
 #### Q04. What can you perform to free up space on a Windows Server 2012 R2 C: drive?
 - [ ] a disk migration
-- [ ] a disk cleanup			**<= ??? :thinking:**
+- [ ] a disk cleanup			**<= correct**
 - [ ] a disk consolidation
 - [ ] a disk defragmentation
 
@@ -56,8 +56,8 @@
 - [ ] D ![Windows Server Q10D](images/windows-server_Q10D.jpg)	**<= ??? :thinking:**
 
 #### Q10. You have installed the Remote Desktop Services role. Which remote desktop mode comes with two built-in licenses?
-- [ ] RDA Administration Mode	**<= ??? :confused:**
-- [ ] RDS Session Mode			**<= ??? :confused:**
+- [ ] RDA Administration Mode	
+- [ ] RDS Session Mode			**<= correct**
 - [ ] RDS User Mode
 - [ ] RDA Application Mode
 
@@ -74,10 +74,10 @@
 - [ ] Install the WSUS server role.
 
 #### Q13. When deploying a Windows Server as a print server, which role needs to be installed?
-- [ ] Print Services				**<= ??? :confused:**
+- [ ] Print Services				
 - [ ] File Services
-- [ ] Print and Document Services
-- [ ] Print Server					**<= ??? :confused:**
+- [ ] Print and Document Services **<== Correct**
+- [ ] Print Server					
 
 #### Q14. Which type of DNS record is NOT specifically associated with an AD domain controller?
 - [ ] LDAP
@@ -241,7 +241,7 @@
 - [ ] Click Next and review the Features section.
 - [ ] Click Previous choose a different server.
 - [ ] Click Cancel and restart the server.
-- [ ] Click Cancel and open the Remove Roles and Features Wizard.	**<= ??? :thinking:**
+- [ ] Click Cancel and open the Remove Roles and Features Wizard.	**<== correct**
 
 #### Q41. In the image below, what is being installed on the server?
 ![Windows Server Q41](images/windows-server_Q41.jpg)
@@ -265,17 +265,17 @@
 #### Q44. What you use to implement a secure hardware store for your CA keys?
 - [ ] storage area network
 - [ ] network attached storage
-- [ ] hardware security module
+- [ ] hardware security module **<== correct**
 - [ ] encrypted hard drive
 
 #### Q45. You are deploying a highly available file server using a Hyper-V cluster configuration. After creating the cluster, why must you add d disk as a cluster shared volume (CSV)?
-- [ ] to provide nodes in cluster independent VMs slot age location
+- [ ] to provide nodes in cluster independent VMs slot age location **<== correct**
 - [ ] to implement fault tolerance zero downtime for the VM
 - [ ] to protect data from loss
 - [ ] to prevent nodes in a cluster from accessing a storage location
 
 #### Q46. When setting up a new RADIUS client, what piece of information verifies a secure and trusted connection with the RADIUS server?
-- [ ] shared secret
+- [ ] shared secret **<== correct**
 - [ ] hash key
 - [ ] vendor name availability
 - [ ] authentication methods
